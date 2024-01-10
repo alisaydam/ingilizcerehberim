@@ -101,7 +101,7 @@
 				</div>
 				<div class="swiper-slide">
 					<p>
-						Her seviye için listenin(dinleme) yapabileceğiniz İngilizce video linkleri mevcuttur.
+						Her seviye için listening(dinleme) yapabileceğiniz İngilizce video linkleri eklenecektir.
 					</p>
 				</div>
 				<div class="swiper-slide">

@@ -101,7 +101,7 @@
 		background: white;
 		height: 100%;
 		margin: auto;
-		padding-top: 50px;
+		margin-top: 50px; 
 	}
 	img {
 		height: 120px;
@@ -109,6 +109,7 @@
 	.content {
 		padding: 10px;
 		background-color: white;
+		margin-top: 50px; 
 	}
 	.logo-wrap {
 		display: flex;

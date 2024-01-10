@@ -96,7 +96,7 @@ export const A1 = [
 		url: 'https://ingilizce.org/ingilizce-baglaclar-konu-anlatimi/'
 	},
 	{
-		Topic: 'Basic Word Order In Engli̇Sh',
+		topic: 'Basic Word Order In Engli̇Sh',
 		recap:
 			"İngilizce'deki temel kelime sırası özne-fiil-nesne'dir/subject-verb-object (SVO). Bu, tipik bir İngilizce cümlede önce öznenin, rdından fiilin ve ardından nesnenin geldiği anlamına gelir.Subject/Özne (S): Eylemi gerçekleştiren veya fiille tanımlanan kişi, şey veya varlık. Örneğin; Mary (subject) sings beautifully(Mary (özne) çok güzel şarkı söylüyor).	Verb/Fiil (V): Özne tarafından gerçekleştirilen eylem veya durum. Örneğin; Mary (subject) sings (verb) beautifully(Mary (özne) çok güzel şarkı söyler (fiil)). 	Object/Nesne (O): Fiilin eyleminden etkilenen kişi, şey veya varlık. Örneğin; Mary (subject) sings (verb) a song (object) beautifully(Mary (özne) çok güzel şarkı(nesne) söyler.)",
 		url: 'https://ingilizce.org/ingilizce-baglaclar-konu-anlatimi/'
