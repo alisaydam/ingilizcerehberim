@@ -88,7 +88,7 @@
 	}
 	body {
 		background-color: antiquewhite;
-		background: url(bg.jpg);
+		background: url("./bg.jpg");
 		background-repeat: no-repeat;
 		background-size: cover;
 		height: 100vh;
