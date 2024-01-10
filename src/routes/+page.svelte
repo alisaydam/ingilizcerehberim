@@ -43,6 +43,7 @@
 				display: flex;
 				align-items: center;
 				justify-content: center;
+				font-size: 20px;
 			}
 
 			p {
@@ -118,7 +119,7 @@
 				effect: 'fade',
 				rewind: false,
 				autoplay: {
-					delay: 400000,
+					delay: 4000,
 					disableOnInteraction: false,
 					stopOnLastSlide: true
 				},
