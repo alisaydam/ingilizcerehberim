@@ -24,7 +24,7 @@ export const A1 = [
 		url: 'https://ingilizce.org/was-were-konu-anlatimi/'
 	},
 	{
-		topic: ' Past Si̇Mple- Negati̇Ves And Questi̇Ons',
+		topic: ' Past Si̇mple- Was/were',
 		recap:
 			'Geçmiş basit zamanın genellikle geçmişte tamamlanmış eylemleri veya olayları tanımlamak için kullanılır. "To be" fiilinin geçmiş basit zamanının iki biçimi vardır: "was" ve "were". "Was" ve "were" arasındaki seçim cümlenin öznesine bağlıdır. "Was" tekil öznelerle kullanılır. Örneğin; "She was at the park yesterday." Çoğul öznelerle "Were" kullanılır. Örneğin; "They were studying for the exam." ',
 		url: 'https://ingilizce.org/was-were-konu-anlatimi/'
@@ -48,13 +48,13 @@ export const A1 = [
 		url: 'https://ingilizcedersleri.ingilizceturkce.gen.tr/modals.html'
 	},
 	{
-		topic: 'A/An Plurals- Si̇Ngular And Plural Forms',
+		topic: 'A/An Plurals- Si̇ngular And Plural Forms',
 		recap:
 			' Tekil İsimlerle A/AN;  Ünsüz sesle başlayan sözcüklerden önce "A" kullanılır. Örneğin; I saw a car on the street(caddede bir araba gördüm). Sesli harfle başlayan kelimelerden önce "An" kullanılır. Örneğin; She is an excellent teacher(O mükkemmel bir öğretmendir).       Çoğul İsimlerle A/AN; Genel olarak "a" ve "an" çoğul isimlerden önce doğrudan kullanılmaz. I saw a cars on the Street veya she is an excellent teachers yanlış kullanım biçimidir. Çoğul isim genel veya spesifik olmayan bir anlamda kullanılıyorsa "a" veya "an" kelimelerini atlayabilirsiniz. Örneğin; Dogs are loyal animals(Köpeklerden genel olarak bahsediyoruz, spesifik olanlardan değil). Çoğul bağlamda belirli sayıda öğeyi vurgulamak istediğinizde belirli miktarla birlikte "a" veya "an" kullanabilirsiniz. Örneğin; I saw a few cars on the street(caddede birkaç araba gördüm). "h" gibi sessiz harf içerip söylenmeyen kelimelerle kullanıldığında ‘an’ kullanırız. Örneğin; He is an honest man(o dürüst bir adamdır). "h" telefuz edildiğinde "a" kullanırız. Örneğin; She is a habitual offender(o alışılmış bir suçludur). "A" ve "an" arasındaki seçim, ilk harfe değil, onları takip eden sese göre yapılır. Örneğin "an hour" doğrudur çünkü "hour" sesli harfle başlar. H harfi okurken söylenmez.',
 		url: 'https://dersimizingilizce.com/ingilizce-articles-a-an-the.html'
 	},
 	{
-		topic: 'Thi̇S,That,These,Those',
+		topic: 'Thi̇s,That,These,Those',
 		recap:
 			'İşaret zamirleri, nesneleri veya nesne gruplarını konuşmacıya yakınlıkları veya uzaklıkları açısından belirtmek ve ayırt etmek için kullanılır. Dört ana işaret zamiri "this," "that," "these," ve "those" bunlardır. This; Konuşmacıya yakın olan tekil bir nesneyi veya kişiyi belirtmek için kullanılır. Örneğin; This book is interesting(bu kitap ilginç). That; Konuşmacıdan uzaktaki tekil bir nesneyi veya kişiyi belirtmek için kullanılır. Örneğin; I want that dress(o elbiseyi istiyorum). These; Konuşmacıya yakın olan birden fazla nesneye veya kişiye atıfta bulunmak için kullanılır. Örneğin; These cookies are delicious(bu kurabiyeler çok lezzetli). Those; Konuşmacıdan uzaktaki birden fazla nesneyi veya kişiyi belirtmek için kullanılır. Örneğin; Look at those beautiful flowers(şu güzel çiçeklere bak). ',
 		url: 'https://ingilizce.org/this-that-these-those-konu-anlatimi/'
