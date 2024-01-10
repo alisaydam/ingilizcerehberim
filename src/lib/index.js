@@ -6,13 +6,13 @@ export const A1 = [
 		url: 'https://dersimizingilizce.com/ingilizce-to-be-am-is-are.html'
 	},
 	{
-		topic: 'Present Si̇Mple- I Do. I Don’T. Do I?',
+		topic: 'Present Si̇mple- I do. I Don’t. Do I?',
 		recap:
 			"İngilizce'de şimdiki zaman genel gerçekleri, alışkanlıkları, rutinleri veya gerçekleri ifade etmek için kullanılır. 'Yapmak' fiilinin üç temel şekli vardır: olumlu (I do), olumsuz (I don’t) ve soru (Do I?). ‘I do my homework’ bu durumda eylemi vurgulamak için 'do' kullanılır. Özellikle ana fiil kendi başına çok anlamlı olmadığında, daha fazla vurgu veya netlik sağlamak için genellikle olumlu cümlelerde kullanılır. ‘I don’t like coffee’ olumsuz biçimde, 'do not' ('don’t' diye kısaltılmış), bir eylemin yokluğunu veya bir ifadenin olumsuzlanmasını ifade etmek için kullanılır. ‘Do I need to bring anything?’ sorularda soruyu tanıtmak için 'do' kullanılır ve bunu ana fiilin temel formu takip eder. Bu form genellikle bilgi veya açıklama istemek için kullanılır. Bu formlar sadece 'to do' için değil aynı zamanda eylemleri şimdiki zamanda ifade ederken diğer fiiller için de geçerlidir.",
 		url: 'https://www.wse.com.tr/blog/simple-present-tense-ingilizce-genis-zaman-konu-anlatimi/'
 	},
 	{
-		topic: 'Present Conti̇Nuous- I’M Doi̇Ng. I’M Not Doi̇Ng. Are You Doi̇Ng?',
+		topic: 'Present Conti̇nuous- I’m doing. I’m not doing. Are you doi̇ng?',
 		recap:
 			'Şimdiki zaman, konuşma anında veya o dönemde gerçekleşen eylemleri anlatmak için kullanılır. Temel formlar arasında olumlu (I’m doing), olumsuz (I’m not doing) ve soru cümlesi (Are you doing?) bulunur. ‘I am doing my homework’ bu durumda "am", "to be" fiilinin şimdiki zaman biçimidir (birinci tekil şahıs) ve devam eden bir eylemi belirtmek için şimdiki zaman ortacıyla (ana fiilin -ing biçimi) birleştirilir. ‘I am not doing anything right now’ negatif formda, "not" yardımcı fiil "am"den sonra gelir ve "I"m not" daralmasını oluşturur. Bu form, eylemin gerçekleşmediğini belirtmek için kullanılır. ‘Are you doing your homework?’ Sorularda yardımcı fiil "are" (ikinci tekil şahıs ve tüm çoğul şahıslar için "to be" fiilinin şimdiki zaman biçimi) cümlenin başına yerleştirilir ve ardından ana fiilin öznesi ve şimdiki zaman katılımcısı gelir. Bu formlar, şu anda veya şu anda meydana gelen eylemlerden bahsederken yaygın olarak kullanılır.',
 		url: 'https://dersimizingilizce.com/ingilizce-present-continuous-tense-simdiki-zaman.html'
