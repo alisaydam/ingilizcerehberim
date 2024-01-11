@@ -72,7 +72,7 @@
 							<h1>
 								{recap}
 							</h1>
-							<p class="url"><a href={url} target="_blank">Detayla konu anlatımına git</a></p>
+							<p class="url"><a href={url} target="_blank">Detaylı konu anlatımına git</a></p>
 						</Item>
 					{/each}
 				</Body>
